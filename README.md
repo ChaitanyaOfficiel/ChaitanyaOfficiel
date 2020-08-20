@@ -12,19 +12,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: him/her
 - ⚡ Fun fact: I know french language
  building [Chaitanya] [chaitanya]  
+ 🐦 [twitter][twitter] **|** 
+👔 [linkedin][linkedin]
 
 <!-- 🏡 [website][website] **|** 
-🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
 🎥 [twitch][twitch] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin] --!>
+ --!>
 
 
 [twitter]: https://twitter.com/Chay_vankar
+
 <!-- [youtube]: https://youtube.com/bradgarropy 
  [website]: https://bradgarropy.com 
 [instagram]: https://instagram.com/bradgarropy
 --!>
+
 [linkedin]: https://linkedin.com/in/Chaitanyavankar
 
