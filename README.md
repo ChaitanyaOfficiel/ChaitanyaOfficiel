@@ -1,16 +1,30 @@
 ### Hi there 👋
 
-<!--
-**Chay612/Chay612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Content writer
+- 🌱 I’m currently learning Python, PIC , ARM Microcontrollers
+- 👯 I’m looking to collaborate on PIC and Python
+- 🤔 I’m looking for help with Python and 
+- 💬 Ask me about AWS
+- 📫 How to reach me: follow us @Chay_vankar
+- 😄 Pronouns: him/her
+- ⚡ Fun fact: I know french language
+ building [Chaitanya] [chaitanya]  
+
+<!-- 🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📺 [youtube][youtube] **|** 
+🎥 [twitch][twitch] **|** --!>
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+
+[twitter]: https://twitter.com/Chay_vankar
+<!-- [youtube]: https://youtube.com/bradgarropy 
+ [website]: https://bradgarropy.com 
+[instagram]: https://instagram.com/bradgarropy
+--!>
+[linkedin]: https://linkedin.com/in/Chaitanyavankar
+
