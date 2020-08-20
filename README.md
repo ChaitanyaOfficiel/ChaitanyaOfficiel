@@ -11,23 +11,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: follow us @Chay_vankar
 - 😄 Pronouns: him/her
 - ⚡ Fun fact: I know french language
- building [Chaitanya] [chaitanya]  
- 🐦 [twitter][twitter] **|** 
+
+🐦 [twitter][twitter] **|** 
 👔 [linkedin][linkedin]
 
-<!-- 🏡 [website][website] **|** 
-📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** 
-📷 [instagram][instagram] **|** 
- --!>
+[twitter] : https://twitter.com/Chay_vankar
 
-
-[twitter]: https://twitter.com/Chay_vankar
-
-<!-- [youtube]: https://youtube.com/bradgarropy 
- [website]: https://bradgarropy.com 
-[instagram]: https://instagram.com/bradgarropy
---!>
-
-[linkedin]: https://linkedin.com/in/Chaitanyavankar
+[linkedin] : https://linkedin.com/in/Chaitanyavankar
 
