@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 <!-- 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
 📺 [youtube][youtube] **|** 
-🎥 [twitch][twitch] **|** --!>
+🎥 [twitch][twitch] **|** 
 📷 [instagram][instagram] **|** 
-👔 [linkedin][linkedin]
+👔 [linkedin][linkedin] --!>
 
 
 [twitter]: https://twitter.com/Chay_vankar
