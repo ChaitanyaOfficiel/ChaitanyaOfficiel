@@ -12,10 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: him/her
 - ⚡ Fun fact: I know french language
 
-🐦 [twitter][twitter] **|** 
-👔 [linkedin][linkedin]
+🐦 [twitter] [twitter] **|** 
+👔 [linkedin] [linkedin]
+[twitter]: https://twitter.com/Chay_vankar
+[linkedin]: https://linkedin.com/in/Chaitanyavankar
 
-[twitter] : https://twitter.com/Chay_vankar
-
-[linkedin] : https://linkedin.com/in/Chaitanyavankar
 
