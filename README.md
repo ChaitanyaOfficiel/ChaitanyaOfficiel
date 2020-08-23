@@ -11,7 +11,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: follow us @Chay_vankar
 - 😄 Pronouns: him/her
 - ⚡ Fun fact: I know french language
-
-🐦 [twitter] [ https://twitter.com/Chay_vankar
-] **|** 
-👔 [linkedin] [ https://linkedin.com/in/Chaitanyavankar]
