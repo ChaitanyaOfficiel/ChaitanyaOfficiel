@@ -1,13 +1,25 @@
-### Hi there 👋
 
+# HI,
+# MY NAME IS CHAITANYA. I AM FRONTED WEDEVELOPER AND  PYTHONISTA
 
-Here are some ideas to get you started:
+>My favourite quote is Everybody is a genius, but if you judge a fish by it’s ability to climb a tree, it will live it’s whole life believing it is stupid.
+## I have hoddies such as reading books and magazines 
+## I am currently learning javascript and django framework
 
-- 🔭 I’m currently working on Content writer
-- 🌱 I’m currently learning Python, html5, css3 and Javascript
-- 👯 I’m looking to collaborate on Python, html5 and css3 
-- 🤔 I’m looking for help with Python and html5 and css3
-- 💬 Ask me about python, html5 and css3
-- 📫 How to reach me: follow us @Chay_vankar
-- 😄 Pronouns: him/her
-- ⚡ Fun fact: I know french language
+### Three import project which i am working on 
+[] building a blog
+[] redesgin my website
+[] complete one project on react.js
+
+``` python
+print("My name is chaitanya") 
+```
+```javascript 
+console.log("My name is chaitanya")
+```
+### follow me to me 
+
+| SocialMedia   | User id  | 
+| -------- | ---------- | 
+| INSTAGRAM     |  (https://instagram.com/chaitanyaofficiel) | 
+| Twitter | (http://twitter.com/chaitanyaofficiel)  | 
