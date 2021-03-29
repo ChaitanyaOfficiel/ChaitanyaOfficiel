@@ -22,6 +22,6 @@ console.log("My name is chaitanya")
 | SocialMedia   | User id  | 
 | -------- | ---------- | 
 | INSTAGRAM     |  https://instagram.com/chaitanyaofficiel | 
-| Twitter | http://twitter.com/chaitanyaofficiel  | 
+| Twitter | http://twitter.com/chaitanyaoffici  | 
 | Youtube | http://youtube.com/chaitanyaofficiel  | 
 | Telegram | t.me/chaitanyaofficiel  | 
