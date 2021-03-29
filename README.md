@@ -23,5 +23,5 @@ console.log("My name is chaitanya")
 | -------- | ---------- | 
 | INSTAGRAM     |  https://instagram.com/chaitanyaofficiel | 
 | Twitter | http://twitter.com/chaitanyaoffici  | 
-| Youtube | http://youtube.com/CHAITANYAOFFICIEL  | 
+| Youtube | https://bit.ly/39lGGYI  | 
 | Telegram | t.me/chaitanyaofficiel  | 
