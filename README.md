@@ -7,9 +7,9 @@
 ## I am currently learning javascript and django framework
 
 ### Three import project which i am working on 
-[] building a blog
-[] redesgin my website
-[] complete one project on react.js
+_[] building a blog
+_[] redesgin my website
+_[] complete one project on react.js
 
 ``` python
 print("My name is chaitanya") 
