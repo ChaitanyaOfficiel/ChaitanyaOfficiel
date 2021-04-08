@@ -7,9 +7,9 @@
 ## I am currently learning javascript and django framework
 
 ### Three import project which i am working on 
-_[] building a blog
-_[] redesgin my website
-_[] complete one project on react.js
+1. [ ] building a blog
+2. [ ] redesgin my website
+3. [ ] Webscraping using python 
 
 ``` python
 print("My name is chaitanya") 
