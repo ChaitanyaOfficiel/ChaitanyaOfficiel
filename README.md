@@ -6,7 +6,7 @@
     "age" : 24
 }
 ```
-# I am webdeveloper and pythoist
+# I am webdeveloper and pythonista
 ### I want to become a full-stack developer or datasciencist. Presently I am focusing only the webdevelopment. <br> I am presently learning all about Javascript, DS and React. 
 
 ### follow me @
