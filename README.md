@@ -10,13 +10,11 @@
 ### I want to become a full-stack developer or datasciencist. Presently I am focusing only the webdevelopment. <br> I am presently learning all about Javascript, DS and React. 
 
 ### follow me @
-[Twitter](www.twitter.com/chaitanyaOfficiel)
+[Twitter](www.twitter.com/Chaitanyaoffici)
 [Github](https://github.com/ChaitanyaOfficiel)
 [YouTube](https://www.youtube.com/channel/UCSwJNwgVVUFvYCg9cywtJ2A)
 [Telegram](t.me/chaitanyaofficiel)
-
 <br>
-
 ### my hobbies are 
     1. Reading books
     2. making videos on Youtube 
