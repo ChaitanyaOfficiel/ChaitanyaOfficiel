@@ -13,7 +13,6 @@
 [Twitter](www.twitter.com/Chaitanyaoffici)
 [Github](https://github.com/ChaitanyaOfficiel)
 [YouTube](https://www.youtube.com/channel/UCSwJNwgVVUFvYCg9cywtJ2A)
-[Telegram](t.me/chaitanyaofficiel)
 <br>
 ### my hobbies are 
     1. Reading books
