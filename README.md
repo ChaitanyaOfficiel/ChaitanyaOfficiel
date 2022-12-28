@@ -7,6 +7,12 @@ I'm Chaitanya vankar a Full Stack Web Developer and blogger on [Hashnode](https:
 [![Twitter Badge](https://img.shields.io/badge/-@Chaitanyaoffici-white?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Chaitanyaoffici)](https://twitter.com/Chaitanyaoffici) [![Linkedin Badge](https://img.shields.io/badge/-chaitanyaofficiel-white?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/chaitanyaofficiel/) [![Mail Badge](https://img.shields.io/badge/-Chaitanyavankar-white?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:Chaitanyavankar0@gmail.com)
 [![Hashnode Badge](https://img.shields.io/badge/-Chaitanyavankar-white?style=flat&labelColor=blue&logo=Hashnode&logoColor=white)](mailto:Chaitanyavankar0@gmail.com)
 
+<!-- TODO: Add last video link -->
+
+- 🔭 I’m currently looking for jr.front-end developer
+- 📫 How to reach me: vankarchaitanya@outlook.com.
+- 😄 Pronouns: Geralt, Chaitanya.
+- ⚡ Fun fact: I play read book and love journal.
 
 
 #### Top Technologies
