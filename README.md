@@ -28,7 +28,7 @@ I'm Chaitanya vankar a Full Stack Web Developer and blogger on [Hashnode](https:
 
 
 #### Bizness
-- :paperclip: [My Resume/CV](shorturl.at/hjQ19)
+<!-- - :paperclip: [My Resume/CV](shorturl.at/hjQ19) -->
 - :email: vankarchaitanya@outlook.com
 
 
