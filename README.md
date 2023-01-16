@@ -9,12 +9,12 @@ I'm Chaitanya vankar a Full Stack Web Developer and blogger on [Hashnode](https:
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently looking for jr.front-end developer
+- 🔭 I’m currently looking for jr.front-end developer role
 - 📫 How to reach me: vankarchaitanya@outlook.com.
 - 😄 Pronouns: Geralt, Chaitanya.
 - ⚡ Fun fact: I play read book and love journal.
-
-
+- 👯 I’m looking to collaborate on **Front-end development, Python**
+- 💬 Ask me about **React, Python, HTML, CSS,and JavaScript**
 #### Top Technologies
 
 <!-- TODO: Make technologies links takes you to repositories -->
@@ -40,12 +40,6 @@ I'm Chaitanya vankar a Full Stack Web Developer and blogger on [Hashnode](https:
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=ChaitanyaOfficielChaitanyaOfficiel)
 
-<details>
-<summary>
-  More stuff about me
-</summary>
-<br />
-
 #### Language tracker
 
 
@@ -53,5 +47,4 @@ I'm Chaitanya vankar a Full Stack Web Developer and blogger on [Hashnode](https:
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
 
