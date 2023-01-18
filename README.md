@@ -35,15 +35,15 @@ I'm Chaitanya vankar a Full Stack Web Developer and blogger on [Hashnode](https:
 
 
 #### Github Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=ChaitanyaOfficiel&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vchaitanya7&show_icons=true)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=ChaitanyaOfficielChaitanyaOfficiel)
+![Profile View Counter](https://komarev.com/ghpvc/?username=vchaitanya7vchaitanya7)
 
 #### Language tracker
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ChaitanyaOfficiel&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vchaitanya7&theme=blue-green)
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
