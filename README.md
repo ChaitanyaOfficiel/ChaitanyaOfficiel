@@ -1,6 +1,6 @@
 ## Hi I'm Chaitanya <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" height="28px" alt="hi">
 
-I'm Chaitanya vankar a Full Stack Web Developer and blogger on [Hashnode](https://chaitanyaoffic.hashnode.dev/). I Spend most of time coding outstanding projects or writing articles.
+I'm Chaitanya vankar a Web Developer and blogger on [Hashnode](https://chaitanyaoffic.hashnode.dev/). I Spend most of time coding outstanding projects or writing articles.
 
 :mailbox: Reach me out!
 
