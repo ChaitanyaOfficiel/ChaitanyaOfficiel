@@ -4,7 +4,7 @@ I'm Chaitanya vankar a Full Stack Web Developer and blogger on [Hashnode](https:
 
 :mailbox: Reach me out!
 
-[![Twitter Badge](https://img.shields.io/badge/-@vchaitanya97-white?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vchaitanya97](https://twitter.com/vchaitanya97) [![Linkedin Badge](https://img.shields.io/badge/-vchaitanya7-white?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vchaitanya7/) 
+[![Twitter Badge](https://img.shields.io/badge/-@vchaitanya97-white?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vchaitanya97)](https://twitter.com/vchaitanya97) [![Linkedin Badge](https://img.shields.io/badge/-vchaitanya7-white?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vchaitanya7/) 
 [![Hashnode Badge](https://img.shields.io/badge/-Chaitanyavankar-white?style=flat&labelColor=blue&logo=Hashnode&logoColor=white)](https://chaitanyaoffic.hashnode.dev/)
 
 <!-- TODO: Add last video link -->
