@@ -11,7 +11,6 @@ I'm Chaitanya vankar a Web Developer and blogger on [Hashnode](https://vchaitany
 
 - 🔭 I’m currently looking for jr.front-end developer role
 - 📫 How to reach me: vankarchaitanya@outlook.com.
-- 😄 Pronouns: Geralt, Chaitanya.
 - ⚡ Fun fact: I play read book and love journal.
 - 👯 I’m looking to collaborate on **Front-end development, Python**
 - 💬 Ask me about **React, Python, HTML, CSS,and JavaScript**
