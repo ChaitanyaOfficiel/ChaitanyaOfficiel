@@ -10,7 +10,7 @@ I'm Chaitanya vankar a Web Developer and blogger on [Hashnode](vchaitanya.hashno
 <!-- TODO: Add last video link -->
 
 - 🔭 I’m currently looking for jr.front-end developer role
-- 📫 How to reach me: vankarchaitanya@outlook.com.
+- 📫 How to reach me: v.chaitanyadeveloper@gmail.com
 - ⚡ Fun fact: I play read book and love journal.
 - 👯 I’m looking to collaborate on **Front-end development, Python**
 - 💬 Ask me about **React, Python, HTML, CSS,and JavaScript**
@@ -28,10 +28,7 @@ I'm Chaitanya vankar a Web Developer and blogger on [Hashnode](vchaitanya.hashno
 
 #### Bizness
 <!-- - :paperclip: [My Resume/CV](shorturl.at/hjQ19) -->
-- :email: vankarchaitanya@outlook.com
-
-
-
+- :email: v.chaitanyadeveloper@gmail.com
 
 #### Github Stats
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vchaitanya7&show_icons=true)
