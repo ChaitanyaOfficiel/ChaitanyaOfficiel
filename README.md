@@ -31,15 +31,15 @@ I'm Chaitanya vankar a Web Developer and blogger on [Hashnode](vchaitanya.hashno
 - :email: v.chaitanyadeveloper@gmail.com
 
 #### Github Stats
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vchaitanya7&show_icons=true)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=vchaitanya-dev&show_icons=true)
 
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=vchaitanya7vchaitanya7)
+![Profile View Counter](https://komarev.com/ghpvc/?username=vchaitanya-dev)
 
 #### Language tracker
 
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vchaitanya7&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vchaitanya-dev&theme=blue-green)
 
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
