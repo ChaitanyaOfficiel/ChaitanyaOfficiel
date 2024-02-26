@@ -6,7 +6,6 @@ I'm Chaitanya Vankar a Web Developer and blogger. I Spend most of my time coding
 
 [![Twitter Badge](https://img.shields.io/badge/-@vchaitanya97-white?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/vchaitanya97)](https://twitter.com/vchaitanya97)  
 [![Hashnode Badge](https://img.shields.io/badge/-Chaitanyavankar-white?style=flat&labelColor=blue&logo=Hashnode&logoColor=white)](https://chaitanyaoffic.hashnode.dev/)
-[![DEV Badge](https://img.shields.io/badge/-Chaitanyavankar-white?style=flat&labelColor=white&logo=DEV&logoColor=black)](https://dev.to/vchaitanyadev)
 
 <!-- TODO: Add last video link -->
 
