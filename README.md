@@ -8,9 +8,7 @@ Welcome to my GitHub! I'm a self-taught developer and aspiring author, combining
 
 - 🎓 **Education:** Bachelor of Technology in Electronics and Communication Engineering.
 - 💻 **Tech Stack:** React, Node.js, Express.js, PostgreSQL, JavaScript, HTML5, CSS3.
-- 🌱 **Currently Learning:** Advanced React patterns, freelancing workflows, and personal branding.
-- ✍️ **Aspiring Author:** Passionate about storytelling and working on a novel about personal growth and resilience.
-- 🎯 **Dream Goal:** Combine technology and storytelling to create immersive digital experiences.
+- 🌱 **Currently Learning:**React Native and Postgresql.
 
 ---
 
@@ -68,7 +66,7 @@ Here are the tools and technologies I work with:
 
 - 🌎 [Portfolio](https://ChaiWritesCode.github.com) _(Coming Soon!)_
 - 💼 [LinkedIn](https://linkedin.com/in/ChaiWritesCode)
-- ✉️ Email: ChaiWrites.code@outlook.com
+- ✉️ Email: vankar.chaitanya@outlook.com
 ---
 
 ## ✨ Fun Zone
@@ -80,7 +78,7 @@ Here are the tools and technologies I work with:
 
 ## 🎯 My Goals
 
-- 📘 Publish my novel and inspire readers with relatable stories.
+- 💻 code more project on React and React Native 
 - 🌟 Contribute to open-source projects that empower developers.
 
 ---
