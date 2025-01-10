@@ -8,7 +8,7 @@ Welcome to my GitHub! I'm a self-taught developer and aspiring author, combining
 
 - 🎓 **Education:** Bachelor of Technology in Electronics and Communication Engineering.
 - 💻 **Tech Stack:** React, Node.js, Express.js, PostgreSQL, JavaScript, HTML5, CSS3.
-- 🌱 **Currently Learning:**React Native and Postgresql.
+- 🌱 **Currently Learning:** React Native and Postgresql.
 
 ---
 
