@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a self-taught developer and aspiring author, combining
 
 ## 💼 Featured Projects
 
-### 1. **[Game of Thrones API](https://github.com/VankarChaitanya/game-of-thrones-api)**
+### 1. **[Game of Thrones API](https://github.com/ChaiWritesCode/game-of-thrones-api)**
 A RESTful API built with Node.js and PostgreSQL, featuring:
 - Comprehensive CRUD operations for characters, houses, and locations.
 - Detailed API documentation with examples.
@@ -24,7 +24,7 @@ A RESTful API built with Node.js and PostgreSQL, featuring:
 
 ---
 
-### 2. **[Rock-Paper-Scissors Game](https://github.com/VankarChaitanya/rock-paper-scissors)**
+### 2. **[Rock-Paper-Scissors Game](https://github.com/ChaiWritesCode/rock-paper-scissors)**
 A classic game reimagined for the web:
 - Interactive UI with responsive design.
 - Score tracking for enhanced user engagement.
@@ -56,8 +56,8 @@ Here are the tools and technologies I work with:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VankarChaitanya&show_icons=true&theme=radical" alt="Vankar's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VankarChaitanya&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaiWritesCode&show_icons=true&theme=radical" alt="Vankar's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChaiWritesCode&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
