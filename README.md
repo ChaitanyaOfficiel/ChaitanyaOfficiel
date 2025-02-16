@@ -34,8 +34,7 @@ A classic game reimagined for the web:
 
 ---
 
-🌟 **Live Website:** [ChaiWritesCode](https://chaitechie.github.com) _(Coming Soon!)_
-
+🌟 **Live Website:** [chaitanya-portfolio](https://personalportfolio-nu-cyan.vercel.app/)
 ---
 
 ## 🛠️ Tech Toolbox
