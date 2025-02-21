@@ -34,7 +34,7 @@ A classic game reimagined for the web:
 
 ---
 
-🌟 **Live Website:** [chaitanya-portfolio](https://personalportfolio-nu-cyan.vercel.app/)
+🌟 **Live Website:** [chaitanya-portfolio](https://chaitanya-vankar.vercel.app/)
 ---
 
 ## 🛠️ Tech Toolbox
@@ -63,7 +63,7 @@ Here are the tools and technologies I work with:
 
 ## 🌐 Connect with Me
 
-- 🌎 [Portfolio](https://chaitechie.github.com) _(Coming Soon!)_
+- 🌎 [Portfolio](chaitanya-vankar.vercel.app)
 - 💼 [LinkedIn](https://linkedin.com/in/chaitechie)
 - ✉️ Email: vankar.chaitanya@outlook.com
 ---
