@@ -1,6 +1,6 @@
 # Hi there! I'm Vankar Chaitanya 👋
 
-Welcome to my GitHub! I'm a self-taught developer  technical expertise to build impactful digital experiences. 🌟
+Welcome to my GitHub! I'm a self-taught developer.With my technical expertise to build impactful digital experiences. 🌟
 
 ---
 
